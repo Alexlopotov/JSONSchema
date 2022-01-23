@@ -1,2 +1,1 @@
-
-![бейджджсон](https://user-images.githubusercontent.com/75681881/150195427-21bac8aa-5817-4164-a04f-bab6a78a9003.png)
+[![Build status](https://ci.appveyor.com/api/projects/status/oi04xo5b2ud7r1ke?svg=true)](https://ci.appveyor.com/project/Alexlopotov/jsonschema)
